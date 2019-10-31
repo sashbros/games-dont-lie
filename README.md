@@ -1,3 +1,3 @@
 # games-dont-lie
 
-The scripts that were used in the game.
+The scripts that were made in the game-making.
