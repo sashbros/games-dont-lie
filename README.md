@@ -1,3 +1,2 @@
-# games-dont-lie
-
-The scripts that were made in the game-making.
+#games-dont-lie
+This is the whole sorce code for the game
